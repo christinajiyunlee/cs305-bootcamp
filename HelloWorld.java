@@ -3,4 +3,8 @@ public class HelloWorld {
     System.out.println("Hello, SwEng!");
 
   }
+
+  public static int computeUltimateAnswer() {
+	return 9 + 10;
+	}
 }
